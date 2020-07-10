@@ -1,0 +1,20 @@
+
+.textButton {
+    background: none;
+    border: 0;
+    color: inherit;
+    /* cursor: default; */
+    font: inherit;
+    line-height: normal;
+    overflow: visible;
+    
+     -webkit-user-select: none; /* for button */
+     -moz-user-select: none;
+     -ms-user-select: none;
+
+
+    color: $link-color;
+    border: 0px;
+    background: transparent;
+
+}
